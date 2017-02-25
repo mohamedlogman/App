@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "388988797582",
+    "firebase_url": "https://ibetu-a0c1a.firebaseio.com",
+    "project_id": "ibetu-a0c1a",
+    "storage_bucket": "ibetu-a0c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388988797582:android:20cc73c7f1401471",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.ibetu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388988797582-5gjjv399rlqhlrmko6av0h1a0sjr3hd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohamed.ibetu",
+            "certificate_hash": "77DB362DA877FBCECBC603CACD5B4C0AEEE51425"
+          }
+        },
+        {
+          "client_id": "388988797582-8djr1r1vg58auln9nlmon7241amqrui6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvmvsKieSuvjDQQ6-IdZlnM381qKfmno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388988797582-8djr1r1vg58auln9nlmon7241amqrui6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
